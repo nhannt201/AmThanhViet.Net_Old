@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+Options +FollowSymlinks 
+Options All -Indexes
+RewriteRule ^t/([^_]*)_([^_]*)\.radio$ /index.php?tinh=$1&rd=$2 [L]
