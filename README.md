@@ -1,2 +1,4 @@
 # amthanhviet.net_old
-Ma nguon cu cua AmThanhViet.Net
+The web radio source code does not use the database.
+
+This is a old source code of AmThanhViet.Net
